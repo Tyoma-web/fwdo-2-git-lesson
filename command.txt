@@ -8,3 +8,11 @@
 
 
 // /c/Teaching/fwd-git-command-line
+
+// Commit workflow
+
+// git status
+
+// git add .
+
+// git commit -m ("Added command.txt file")
