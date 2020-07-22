@@ -1,0 +1,10 @@
+// <name> <argument>
+
+// ls - list files in current directory
+// pwd - show current location
+// cd <path> - (/ - absolute path) chose directory
+// git - Git
+// git init - initialize new git repository
+
+
+// /c/Teaching/fwd-git-command-line
