@@ -16,3 +16,5 @@
 // git add .
 
 // git commit -m ("Added command.txt file")
+
+// git diff - show difference between files
