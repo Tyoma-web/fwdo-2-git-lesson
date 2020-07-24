@@ -26,3 +26,5 @@
 // git checkout <branch_name/commit_id> - go to branch or commit
 
 // git merge <branch_name> - merge branch into current one
+
+// git log --graph - show commit history
