@@ -28,3 +28,5 @@
 // git merge <branch_name> - merge branch into current one
 
 // git log --graph - show commit history
+
+// git pull origin <branch_name> - sync local branch with remote
